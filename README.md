@@ -64,7 +64,7 @@ Démarrez le serveur de développement :
 
 
 ## Technologies
-Ce projet utilise plusieurs technologies modernes pour créer une expérience 3D interactive:
+Ce projet utilise une technologie:
 
 <table align="center">
   <tbody>
