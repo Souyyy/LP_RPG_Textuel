@@ -89,5 +89,8 @@ Ce projet comporte plusieurs package comme suit:
 
 Ains que de plusieurs class.
 
+## Problème
+Le jeu n'est pas conçu pour être équilibré : il y a de grandes différences entre les attaques, les armes, etc. Cependant, la logique est présente.
+
 ## Licence
 Ce programme est sous licence MIT.
