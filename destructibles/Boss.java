@@ -2,7 +2,7 @@ package destructibles;
 
 public class Boss extends Destructible {
     // Vie du boss
-    private static final double LIFE = 2;
+    private static final double LIFE = 100;
     // Dégat du boss
     private double damage = 10; 
 
