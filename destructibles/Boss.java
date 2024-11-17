@@ -1,10 +1,10 @@
 package destructibles;
 
 public class Boss extends Destructible {
-
+    // Vie du boss
     private static final double LIFE = 2;
-    private double damage = 10; // Dégâts infligés par le monstre
-
+    // Dégat du boss
+    private double damage = 10; 
 
     public Boss() {
         super(LIFE);

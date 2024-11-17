@@ -12,13 +12,15 @@ public class Destructible {
         this.health -= d;
     }
 
+    // Méthode pour vérifier si l'objet est vivant
+    public boolean isAlive() {
+        return health > 0;
+    }
+
     // Méthode pour obtenir la santé actuelle
     public double getHealth() {
         return health;
     }
 
-    // Méthode pour vérifier si l'objet est vivant
-    public boolean isAlive() {
-        return health > 0;
-    }
+    
 }
